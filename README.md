@@ -59,13 +59,7 @@
    ```
 
    Результат:
-   ```
-   <html>
-     <body>
-       <h1>Hello, World!</h1>
-     </body>
-   </html>
-   ```
+ ![image](https://github.com/user-attachments/assets/fd0796d7-e44c-49f1-bead-6774924bbf73)
 
 ---
 
@@ -159,8 +153,6 @@
    Результат:
  
    ![image](https://github.com/user-attachments/assets/8e401e60-13b3-479b-8c1e-72367ea5e246)
-
-   ```
 
 ---
 
