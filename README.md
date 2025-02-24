@@ -158,11 +158,8 @@
 
    Результат:
    ```
-   <html>
-     <body>
-       <h1>Hello, Netology!</h1>
-     </body>
-   </html>
+   ![image](https://github.com/user-attachments/assets/8e401e60-13b3-479b-8c1e-72367ea5e246)
+
    ```
 
 ---
