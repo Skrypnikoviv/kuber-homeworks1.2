@@ -157,16 +157,10 @@
    ```
 
    Результат:
-   ```
+ 
    ![image](https://github.com/user-attachments/assets/8e401e60-13b3-479b-8c1e-72367ea5e246)
 
    ```
 
 ---
-
-## Итог
-
-- В рамках задания успешно созданы Pod и Service в Kubernetes.
-- Подключение к Pod и Service с локального компьютера выполнено с использованием `kubectl port-forward`.
-- Результаты проверены с помощью `curl`.
 
